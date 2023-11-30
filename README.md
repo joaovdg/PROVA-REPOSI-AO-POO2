@@ -1,2 +1,2 @@
-# PROVA-REPOSI-AO-POO2
+# PROVA-REPOSIÇAO-POO2
 Repositório destinado a prova do B1 
